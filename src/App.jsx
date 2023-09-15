@@ -21,12 +21,12 @@ function App() {
     if (isExist) {
       Swal.fire({
         title: 'You already selected this course',
-        icon: 'info',
+        icon: 'question',
         confirmButtonText: 'Close'
       })
     } else {
       const newCart = [...carts, course]
-      setCarts(newCart)
+
 
       if (newcredit > 20) {
         Swal.fire({
@@ -37,8 +37,8 @@ function App() {
       } else {
         setCredits(newcredit)
         setRemaining(newRemaining)
+        setCarts(newCart)
       }
-        
       
     }
   }
