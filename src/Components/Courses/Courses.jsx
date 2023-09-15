@@ -15,8 +15,7 @@ const Courses = () => {
     }
 
     return (
-        <div className="w-3/4">
-            <h1 className="text-2xl font-bold text-white">0{courses.length}</h1>
+        <div className="w-3/4 grid grid-cols-3">
             {
                 courses.map(course => <Course course={course}></Course>)
             }

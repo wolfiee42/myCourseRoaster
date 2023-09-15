@@ -2,74 +2,74 @@
     {
         "id": 1,
         "image": "https://i.ibb.co/3MgmJd5/Rectangle-2.png",
-        "course_name": "Introduction to Programming",
+        "course_name": "Introduction to OOP Python",
         "credit_hours": 3,
         "price": 199.99,
-        "details": "This course introduces the fundamentals of programming using popular languages like Python and Java."
+        "details": "OOP in Python covers classes, objects, inheritance, encapsulation, and polymorphism organized code development."
     },
     {
         "id": 2,
         "image": "https://i.ibb.co/V2G5kmy/Rectangle-2-1.png",
-        "course_name": "Web Development Fundamentals",
+        "course_name": "Database (MySQL)",
         "credit_hours": 4,
         "price": 249.99,
-        "details": "Learn the basics of web development, including HTML, CSS, and JavaScript, to build your own websites."
+        "details": "MySQL is a popular relational database management system known for its speed, reliability, and open-source nature."
     },
     {
         "id": 3,
         "image": "https://i.ibb.co/n0FVWgh/Rectangle-2-2.png",
-        "course_name": "Data Science Essentials",
-        "credit_hours": 3,
+        "course_name": "Introduction to C Programming",
+        "credit_hours":  1,
         "price": 299.99,
-        "details": "Explore data analysis, visualization, and machine learning with Python in this data science course."
+        "details": "C programming course teaches fundamentals. Vital for software development, embedded systems, and algorithmic problem-solving."
     },
     {
         "id": 4,
         "image": "https://i.ibb.co/bBBqV2V/Rectangle-2-3.png",
-        "course_name": "Digital Marketing Fundamentals",
-        "credit_hours": 3,
+        "course_name": "Introduction to Algorithms",
+        "credit_hours": 2,
         "price": 199.99,
-        "details": "Learn the basics of digital marketing, including SEO, social media, and email marketing strategies."
+        "details": "Algorithms course covers essential concepts, data structures, and techniques for solving complex computational problems."
     },
     {
         "id": 5,
         "image": "https://i.ibb.co/9GNsWxf/Rectangle-2-4.png",
-        "course_name": "Business Ethics",
+        "course_name": "Introduction to C++ for DSA",
         "credit_hours": 2,
         "price": 149.99,
-        "details": "Examine ethical dilemmas in business and develop strategies for ethical decision-making."
+        "details": "C++ for DSA: Learn C++ basics for Data Structures and Algorithms, essential for efficient coding."
     },
     {
         "id": 6,
         "image": "https://i.ibb.co/bQ9fyz4/Rectangle-2-5.png",
-        "course_name": "Financial Management",
+        "course_name": "Software Engineering",
         "credit_hours": 3,
         "price": 249.99,
-        "details": "Learn financial planning, budgeting, and investment strategies for personal and professional growth."
+        "details": "Software Engineering is the systematic design, development, testing, and maintenance of software systems for practical purposes."
     },
     {
         "id": 7,
         "image": "https://i.ibb.co/HKG2H13/Rectangle-2-6.png",
-        "course_name": "Art History",
+        "course_name": "Problem-Solving Part",
         "credit_hours": 2,
         "price": 149.99,
-        "details": "Explore the history of art, from ancient civilizations to contemporary artists and movements."
+        "details": "Problem-solving in C involves designing efficient algorithms, debugging, and implementing solutions to real-world challenges."
     },
     {
         "id": 8,
         "image": "https://i.ibb.co/PC3DWD8/Rectangle-3.png",
-        "course_name": "Psychology of Well-being",
+        "course_name": "Basic Data Structures",
         "credit_hours": 3,
         "price": 199.99,
-        "details": "Gain insights into the science of happiness and well-being, and learn strategies for a fulfilling life."
+        "details": "Data structures include arrays, linked lists, stacks, and queues; crucial for organizing and manipulating data."
     },
     {
         "id": 9,
         "image": "https://i.ibb.co/DbVKw8s/Rectangle-3-1.png",
-        "course_name": "Environmental Science",
+        "course_name": "AWS, Cloud Computing",
         "credit_hours": 4,
         "price": 299.99,
-        "details": "Study the environment, ecology, and sustainability to understand and address global environmental issues."
+        "details": "AWS is a leading cloud computing provider, offering scalable, on-demand computing resources globally."
     }
 ]
 
