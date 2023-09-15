@@ -45,7 +45,7 @@
         "course_name": "Software Engineering",
         "credit_hours": 3,
         "price": 249.99,
-        "details": "Software Engineering is the systematic design, development, testing, and maintenance of software systems for practical purposes."
+        "details": "Software Engineering is the systematic design, development, testing, and maintenance of systems for purposes."
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "course_name": "Problem-Solving Part",
         "credit_hours": 2,
         "price": 149.99,
-        "details": "Problem-solving in C involves designing efficient algorithms, debugging, and implementing solutions to real-world challenges."
+        "details": "Problem-solving in C involves efficient algorithms, debugging, and implementing solutions to real-world challenges."
     },
     {
         "id": 8,
