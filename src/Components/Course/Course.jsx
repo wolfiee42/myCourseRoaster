@@ -20,7 +20,7 @@ const Course = ({ course, handleButton }) => {
                 </div>
 
             </div>
-            <button onClick={() => handleButton(course)} className='bg-sky-600 w-full text-white p-2 rounded-lg mt-6 hover:bg-sky-500'>Select</button>
+            <button onClick={() => handleButton(course, credit_hours)} className='bg-sky-600 w-full text-white p-2 rounded-lg mt-6 hover:bg-sky-500'>Select</button>
         </div>
     );
 };

@@ -6,9 +6,19 @@ import Header from './Components/Headear/Header'
 
 function App() {
   const [carts, setCarts] = useState([])
-  const handleButton = (course) => {
+  const [credits, setCredits] = useState(0)
+  const [remainingCredit, setRemaining] = useState(20)
+
+
+  const handleButton = (course, credit_hours) => {
     const newCart = [...carts, course]
     setCarts(newCart)
+
+    const newcredit = credits + credit_hours
+    setCredits(newcredit)
+
+    const newRemaining = remainingCredit - credit_hours;
+    setRemaining(newRemaining)
   }
 
   return (
@@ -16,7 +26,7 @@ function App() {
       <Header></Header>
       <div className='flex justify-around items-start'>
         <Courses handleButton={handleButton}></Courses>
-        <CartSection carts={carts}></CartSection>
+        <CartSection remainingCredit={remainingCredit} credits={credits} carts={carts}></CartSection>
       </div>
     </>
   )

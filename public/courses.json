@@ -3,7 +3,7 @@
         "id": 1,
         "image": "https://i.ibb.co/3MgmJd5/Rectangle-2.png",
         "course_name": "Introduction to OOP Python",
-        "credit_hours": 3,
+        "credit_hours": 5,
         "price": 199.99,
         "details": "OOP in Python covers classes, objects, inheritance, encapsulation, and polymorphism organized code development."
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "image": "https://i.ibb.co/V2G5kmy/Rectangle-2-1.png",
         "course_name": "Database (MySQL)",
-        "credit_hours": 4,
+        "credit_hours": 5,
         "price": 249.99,
         "details": "MySQL is a popular relational database management system known for its speed, reliability, and open-source nature."
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "image": "https://i.ibb.co/9GNsWxf/Rectangle-2-4.png",
         "course_name": "Introduction to C++ for DSA",
-        "credit_hours": 2,
+        "credit_hours": 10,
         "price": 149.99,
         "details": "C++ for DSA: Learn C++ basics for Data Structures and Algorithms, essential for efficient coding."
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "image": "https://i.ibb.co/PC3DWD8/Rectangle-3.png",
         "course_name": "Basic Data Structures",
-        "credit_hours": 3,
+        "credit_hours": 5,
         "price": 199.99,
         "details": "Data structures include arrays, linked lists, stacks, and queues; crucial for organizing and manipulating data."
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "image": "https://i.ibb.co/DbVKw8s/Rectangle-3-1.png",
         "course_name": "AWS, Cloud Computing",
-        "credit_hours": 4,
+        "credit_hours": 5,
         "price": 299.99,
         "details": "AWS is a leading cloud computing provider, offering scalable, on-demand computing resources globally."
     }
