@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/3MgmJd5/Rectangle-2.png",
+        "course_name": "Introduction to Programming",
+        "credit_hours": 3,
+        "price": 199.99,
+        "details": "This course introduces the fundamentals of programming using popular languages like Python and Java."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/V2G5kmy/Rectangle-2-1.png",
+        "course_name": "Web Development Fundamentals",
+        "credit_hours": 4,
+        "price": 249.99,
+        "details": "Learn the basics of web development, including HTML, CSS, and JavaScript, to build your own websites."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/n0FVWgh/Rectangle-2-2.png",
+        "course_name": "Data Science Essentials",
+        "credit_hours": 3,
+        "price": 299.99,
+        "details": "Explore data analysis, visualization, and machine learning with Python in this data science course."
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/bBBqV2V/Rectangle-2-3.png",
+        "course_name": "Digital Marketing Fundamentals",
+        "credit_hours": 3,
+        "price": 199.99,
+        "details": "Learn the basics of digital marketing, including SEO, social media, and email marketing strategies."
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/9GNsWxf/Rectangle-2-4.png",
+        "course_name": "Business Ethics",
+        "credit_hours": 2,
+        "price": 149.99,
+        "details": "Examine ethical dilemmas in business and develop strategies for ethical decision-making."
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/bQ9fyz4/Rectangle-2-5.png",
+        "course_name": "Financial Management",
+        "credit_hours": 3,
+        "price": 249.99,
+        "details": "Learn financial planning, budgeting, and investment strategies for personal and professional growth."
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/HKG2H13/Rectangle-2-6.png",
+        "course_name": "Art History",
+        "credit_hours": 2,
+        "price": 149.99,
+        "details": "Explore the history of art, from ancient civilizations to contemporary artists and movements."
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/PC3DWD8/Rectangle-3.png",
+        "course_name": "Psychology of Well-being",
+        "credit_hours": 3,
+        "price": 199.99,
+        "details": "Gain insights into the science of happiness and well-being, and learn strategies for a fulfilling life."
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/DbVKw8s/Rectangle-3-1.png",
+        "course_name": "Environmental Science",
+        "credit_hours": 4,
+        "price": 299.99,
+        "details": "Study the environment, ecology, and sustainability to understand and address global environmental issues."
+    }
+]
+
+
+
+
+
+
+
+
+
