@@ -1,9 +1,11 @@
 ## Project features
 
-** This template provides a minimal setup to get React working in Vite with _HMR_ and some ESLint rules. **
+- 
 
-Currently, two official plugins are available:
 
 ## State management
-
+- i declared effect hook and fetched the data.
+- in between fetching the data, i declared a state hook.
+- in effect hook i called the the function of the state hook in the fetched data.
+- and the variable i assigned in state hook, assigned in button in onClick attribute.
 
